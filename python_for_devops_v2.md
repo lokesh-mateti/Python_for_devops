@@ -1,4 +1,4 @@
-Certainly! Here's a comprehensive Python tutorial covering various aspects from basics to advanced topics. This tutorial is structured to help you understand Python programming in the context of DevOps, including automation, scripting, and infrastructure management.
+
 
 ### Python Tutorial for DevOps
 
